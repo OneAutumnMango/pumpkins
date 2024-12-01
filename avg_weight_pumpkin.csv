@@ -1,0 +1,51 @@
+id,place,weight_lbs,grower_name,city,state_prov,country,gpc_site,seed_mother,pollinator_father,ott,est_weight,pct_chart,variety,year,type,avg_weight_lbs
+55,1,154.5,"Ellenbecker, Todd & Sequoia",Gleason,Wisconsin,United States,Nekoosa Giant Pumpkin Fest,209 Werner,Self,184.0,129.00,20.0,,2013,F,286.6990719257541
+39,2,146.5,"Razo, Steve",New Middletown,Ohio,United States,Ohio Valley Giant Pumpkin Growers Weigh-off,150.5 Snyder,,194.0,151.00,-3.0,,2013,F,288.46650285714287
+42,5,139.0,"Werner, Quinn",Saegartown,Pennsylvania,United States,Ohio Valley Giant Pumpkin Growers Weigh-off,209 Werner,,190.0,141.00,-1.0,,2013,F,291.8354199683043
+41,7,136.5,"Treece, Jef",West Linn,Oregon,United States,Washington State Fair,119.5 Treece,open,190.0,142.00,-4.0,,2013,F,295.4835849056604
+53,16,128.0,"Tobeck, Cindy",Olympia,Washington,United States,Washington State Fair,80 LaRue,140.5 Barker,189.0,138.00,-7.0,,2013,F,349.2985037406484
+36,21,124.0,"Westcott, Steve",Oswego,New York,United States,CNY Pumpkinfest,110 La Rue,102 Westcott,187.0,135.00,-8.0,,2013,F,362.7323684210526
+08,27,121.0,"Grande, Gary",LITTLETON,Colorado,United States,Jareds Giant Pumpkin Weigh-off and Festival,81 Wolf,Selfed,179.0,118.00,3.0,,2013,F,361.8369450101833
+26,30,119.0,"Wells, Bob",Ann Arbor,Michigan,United States,Harnica Farms Great Pumpkin Weigh-off,,,183.0,126.00,-6.0,,2013,F,317.2636033519553
+18,32,118.0,"May, Gary",Bloomington,Indiana,United States,Gary Greenhouse Weigh-off,,,0.0,0.00,0.0,,2013,F,220.30464285714288
+27,34,115.5,"Steil, Scott",,Minnesota,United States,Stillwater Harvestfest,80 LaRue,160 Starr,0.0,0.00,0.0,,2013,F,264.3499107142857
+50,78,99.0,"Companion, Kevin",Huntington,Vermont,United States,Vermont Growers Weigh-off,,open,175.0,110.00,-10.0,,2013,F,302.65087591240876
+09,85,97.0,"Ciesielski, John",Bethlehem,Connecticut,United States,Durham Fair Weigh-Off,81 wolf,open,0.0,0.00,0.0,,2013,F,336.8332923076923
+25,93,94.0,"Jaeger, Betty",Chewshire,Massachusetts,United States,Vermont Growers Weigh-off,94 Lyons,,168.0,97.00,-3.0,,2013,F,379.62377049180327
+19,96,92.9,"Miller, Dave",Riverside,Iowa,United States,Iowa State Fair,80.5 D.Miller,162 MacKinnon,0.0,0.00,0.0,,2013,F,239.89525812619502
+16,127,83.0,"Warren, Cliff",Pocatello,Idaho,United States,Thanksgiving Point,106.5 Warren,Open,0.0,0.00,0.0,,2013,F,449.828
+21,171,71.0,"Wexler , Jamie",Frenchburg,Kentucky,United States,Roberts Family Farms,81 Wolf,open,0.0,0.00,0.0,,2013,F,285.7738376383764
+49,189,67.0,"Black, McKell",American Fork,Utah,United States,Thanksgiving Point,,,0.0,0.00,0.0,,2013,F,342.78880893300254
+30,252,43.0,"West, Jim",pinesdale,Montana,United States,Ronan Harvest Festival,,,0.0,0.00,0.0,,2013,F,407.3442307692308
+46,266,27.0,"Witter, George",Sioux Falls,South Dakota,United States,Southeast South Dakota Weigh-off,,,92.0,16.00,69.0,,2013,F,310.43291139240506
+29,35,115.75,"English, Doug",Webster Groves,Missouri,United States,Republic Pumpkin Daze,135.00 Jacobus  10,129.13 	Young  12,0.0,0.00,0.0,,2013,L,144.98895104895104
+06,45,112.75,"Sferios, Emanuel",Grass Valley,California,United States,Elk Grove Giant Pumpkin Festival,106 Mailey,open,0.0,0.00,0.0,,2013,L,373.8490813953489
+44,47,112.5,"Layfield, Steve",West Greenwich,Rhode Island,United States,SNGPG Frerichs Farm Weigh-off,124.5 Jutras,self,0.0,0.00,0.0,,2013,L,359.9911976047904
+33,122,92.0,"Beuchemin, Jim",,New Hampshire,United States,Topsfield Fair Weigh-off,,,0.0,0.00,0.0,,2013,L,275.2810563380282
+47,171,72.63,"Cantrell, David",Corryton,Tennessee,United States,Farm Yall Festival,124.5 Jutras 12,Open,0.0,0.00,0.0,,2013,L,255.88583333333332
+17,30,,"Shenoha, Jeff",Joliet,Illinois,United States,Siegels Cottonwood Farms,1421.5 Stelts,1381 Checkon,415.0,"1,480.00",4.0,,2013,P,425.8924742268041
+23,155,,"Pierpont, Edwin",Jefferson,Maine,United States,Damariscotta Pumpkinfest and Regatta Weigh-off,1789 Wallace,1596 Werner,401.0,"1,365.00",-7.0,,2013,P,439.1630243902439
+02,216,,"Marshall, Dale",Anchorage,Alaska,United States,Alaska Midnight Sun Great Pumpkin Weigh-off,931 Marshall,771 Marshall,383.0,"1,212.00",-2.0,,2013,P,116.95361111111112
+54,245,,"Chambers, Don",Wheeling,West Virginia,United States,Barnesville Pumpkin Festival,1443.5,2009 Wallace,377.0,"1,162.00",-3.0,,2013,P,366.5858928571429
+56,299,,"Corbin, Andy",cheyenne,Wyoming,United States,Nicks Garden Center Weigh-off,1770.5 Lieber 2012,1770.5 Lieber 2012,354.0,979.00,9.0,,2013,P,348.49735849056606
+13,349,,Fortenberry and Gangne,Blalrsville,Georgia,United States,Roberts Family Farms,1252 Gangne,1411 Werrner,355.0,986.00,3.0,,2013,P,355.9263157894737
+24,432,921.0,"Friend, Nick",Oakland,Maryland,United States,PGPGA Great Pumpkin Weigh-off,1630 Checkon,1524 Fulk,349.0,940.00,-2.0,,2013,P,756.3333333333334
+01,449,903.0,"Boyd, Trent",Cullman,Alabama,United States,Farm Yall Festival,1331 Van Hook,1140 Finders,344.0,903.00,0.0,,2013,P,262.3819117647059
+38,531,834.5,"Bourbanis, Butch",Walhalla,North Dakota,United States,Roland Pumpkin Fair,,,332.0,816.00,2.0,,2013,P,350.6818181818182
+37,538,830.6,"Lovelace, Sam",Sparta,North Carolina,United States,Yadkin Valley Pumpkin Weigh-off,1649 Lancaster,1676 Daletas,320.0,730.00,14.0,,2013,P,313.80994764397906
+51,721,661.3,"Burchette, Rob & Bruce",Dry Pond,Virginia,United States,Yadkin Valley Pumpkin Weigh-off,1034 Berard,open,317.0,713.00,-7.0,,2013,P,285.3421848739496
+45,986,449.9,"Hartman, Adam",Lexington,South Carolina,United States,Yadkin Valley Pumpkin Weigh-off,1101 Marshall,1422.5 Giarruso,260.0,395.00,14.0,,2013,P,398.9455555555556
+28,12,237.5,"Vaughn, Jerry",Water Valley,Mississippi,United States,Republic Pumpkin Daze,,,0.0,0.00,0.0,,2013,W,195.83333333333334
+05,24,202.0,"Bright, Lloyd",Arkadelphia,Arkansas,United States,The Flower Bin,205 Jones,Open,204.0,236.00,-14.0,,2013,W,153.6958474576271
+22,27,196.3,"Jones, Barbara Bright",Bossier City,Louisiana,United States,Old Washington Watermelon Weigh-off,216 Bright,Open Pollination,197.0,213.00,-8.0,,2013,W,167.13904761904763
+31,274,43.5,"Hatfield, Nanette",Pawnee City,Nebraska,United States,Harvest Bash,,,130.0,45.00,-3.0,,2014,F,359.9396551724138
+34,661,863.0,"Starr, Mike",Long Valley,New Jersey,United States,Grims Orchard and Family Farms,2009 Wallace,1140 Finder,359.0,"1,014.00",-15.0,,2014,P,382.2933333333333
+10,799,752.0,"Givens, Ed",Georgetown,Delaware,United States,Grims Orchard and Family Farms,,,336.0,841.00,-11.0,,2014,P,430.5
+20,1455,289.0,"Marintzer, Jacob",Westmoreland,Kansas,United States,Harvest Bash,1412 Menting,880.5 Heyne,239.0,308.00,-6.0,,2014,P,253.68015873015872
+32,1471,274.5,"Bookey, Doug",Sparks,Nevada,United States,Elk Grove Giant Pumpkin Festival,1784 Glasier,self,244.0,327.00,-16.0,,2014,P,156.04285714285714
+40,1679,148.0,"DENNIS, DJ",CHILICOTHE,Oklahoma,United States,Oakland Nursery Weigh-off,1253 Vanderpool,2323 Meir,155.0,97.00,53.0,,2015,P,300.41655172413795
+35,34,4.88,"Zmarzly, Olin",Albuquerque,New Mexico,United States,Early Tomatoes,,Open,,,,,2015,T,3.9966666666666666
+15,277,0.61,"Settlage, Becky","Hilo,Hi",Hawaii,United States,Early Tomatoes,4.39 Menting,Open,,,,,2015,T,0.7366666666666667
+48,63,162.5,"Grmela, Joey",Waxahachie,Texas,United States,Republic Pumpkin Daze,,,0.0,0.00,0.0,,2015,W,197.203
+04,154,85.06,"Culp, Scott",Sierra Vista,Arizona,United States,Carefree Enchanted Pumpkin Weigh-off,136.75 Kline,open,0.0,0.00,0.0,,2018,L,214.8225
+12,1286,313.0,"Knight, Glenn",Jay,Florida,United States,Tennessee Valley Fair,1257.5 Wallace,Self,217.0,235.00,33.0,,2019,P,313.0
